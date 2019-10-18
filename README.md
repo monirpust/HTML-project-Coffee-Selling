@@ -1,1 +1,3 @@
-# HTML-project-Coffee-Selling-site-
+# HTML-project-Coffee-Selling-site
+
+Hello everyone, this simple 4 pages html project is about a coffee, dessert and breakfast selling restaurant. There is an special feature in "contact us" page. That is when visitor click on the given contact number and given email it will take him/her to mobile calling app and mailing app respectively.
